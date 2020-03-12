@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using NativeWifi;
 
+
 namespace OlegSolovyovWi_Fi
 {
     public partial class Form1 : Form
